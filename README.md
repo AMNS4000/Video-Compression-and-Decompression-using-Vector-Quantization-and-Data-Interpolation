@@ -10,7 +10,7 @@
 
 Final Video :
 
-https://github.com/AMNS4000/Video-Compression-and-Decompression-using-Vector-Quantization-and-Data-Interpolation/assets/104384727/124cb176-fab0-46f7-beab-c8f2c35e90ac
+https://github.com/AMNS4000/Video-Compression-and-Decompression-using-Vector-Quantization-and-Data-Interpolation/assets/104384727/a56bf931-5258-4e74-8aef-a97a8566bc73
 
 
 
